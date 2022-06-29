@@ -5,7 +5,7 @@
     font-family: 'Open Sans', sans-serif; 
 }
 body::-webkit-scrollbar {
-    width: 12px;               /* width of the entire scrollbar */
+    width: 11px;               /* width of the entire scrollbar */
   }
   
   body::-webkit-scrollbar-track {
@@ -148,6 +148,7 @@ header .menu{
 #quem-somos img{
 
     min-width: 420px;
+    margin-top: 15px;
 }
 
 .container-externo{
