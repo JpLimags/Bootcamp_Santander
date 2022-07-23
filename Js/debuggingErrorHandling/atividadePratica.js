@@ -34,4 +34,4 @@ function validation(arr, num){
     return arr;
 }
 
-console.log(validation([],'a'))
+console.log(validation())
